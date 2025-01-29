@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    padding: 5px;
+    border: 1px;
+    border-color: black;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+p {
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.animale-obj {
+    display: flex;
+    flex-direction: column;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+}
